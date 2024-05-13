@@ -1,0 +1,11 @@
+- Repository (Repo): is the place where i upload my project in github
+
+1- git init (connect my project with git hub)(first time only)
+
+4- git remote add origin https://github.com/MohamedElfalaky/EwaBootcampGithub.git (first time only)
+
+2- git add . (add all files to be uploaded to github)
+
+3- git commit -m "add login screen"
+
+5- git push (send edits to github)
