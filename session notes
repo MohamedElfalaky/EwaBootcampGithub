@@ -1,3 +1,10 @@
+
+
+git :  a pipeline used to track code versions
+
+github - gitlab - azure - gira : websites used to upload code and share code
+
+
 why github?
 
 (to track our code)
@@ -31,3 +38,6 @@ why github?
 //////////////////////////////////
 
 6- Git clone "repo link"
+
+7- git pull
+
