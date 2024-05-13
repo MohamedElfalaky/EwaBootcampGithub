@@ -54,15 +54,19 @@ why github?
 
 
 
-8- git branch 
+8- git branch
 
-- git checkout
+8- git branch "اسم برانش جديد" ---->  create new branch
 
-- git checkout -b 
+- git checkout "اسم البرانش"  ----> switch to this branch 
 
-- pull request
+- git checkout -b " "   ------> 
 
-9- marge request
+
+
+9 pull request : 
+
+10 - marge request
 
 
 
