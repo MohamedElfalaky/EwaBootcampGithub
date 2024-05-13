@@ -1,3 +1,11 @@
+why github?
+
+(to track our code)
+1- to share the project acrross the team to be easy to share tasks.
+2- manage code quality.
+3- share open source codes
+4- make a copy of our code.
+
 - Repository (Repo): is the place where i upload my project in github
 
 1- git init (connect my project with git hub)(first time only)
@@ -6,6 +14,16 @@
 
 2- git add . (add all files to be uploaded to github)
 
+- انا مازلت في المملكة بقوم بتجهيزات اوراق السفر
+- تجميع الفايلات اللي هتترفع ع الجيت هاب
+- git add : sends our code (files) from local area to working area
+
 3- git commit -m "add login screen"
 
+- وصلت المطار،، واخذت ختم الخروج ،، وجالس في قاعة الانتظار
+  git commit : sends our code from working area to staging area (صالة الانتظار في المطار)
+
 5- git push (send edits to github)
+
+- وصلت الاراضي الامريكية
+- git push: sends our code from staging area to the remote repository
