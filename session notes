@@ -41,3 +41,25 @@ why github?
 
 7- git pull
 
+/////////////////
+
+
+
+
+- branch: we take a new branch when:
+1- we make new feature 
+2- when we refactore a part of code 
+3- when we make new app version
+4- when a team works in the project and every one has a task so every one make his own branch
+
+
+
+8- git branch 
+
+- git checkout
+
+- git checkout -b 
+
+- pull request
+
+9- marge request
